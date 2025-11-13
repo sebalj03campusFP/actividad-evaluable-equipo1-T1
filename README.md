@@ -22,7 +22,7 @@ Necesitarás tener dos cosas instaladas en tu sistema:
 
 2.  **Git:** El sistema de control de versiones para clonar el repositorio.
     * Puedes descargarlo desde [git-scm.com](https://git-scm.com/downloads).
-
+3. **Visual Studio Code :** Necesitas el VS para poder jugar a Galaxy Defenders .
 ### Pasos de Instalación
 
 1.  **Clona el repositorio:**
